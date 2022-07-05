@@ -1,10 +1,7 @@
-fx_version 'adamant'
-fivem_checker 'yes'
-github 'https://github.com/EXPANS1VE/XPSV-StaffUtilites'
-version '1.0'
-name 'XPSV-StaffUtilities'
-
+fx_version 'cerulean'
 game 'gta5'
+
+version '1.1'
 
 server_scripts {
 	'server/sclear.lua', -- Clear Chat Script
@@ -20,3 +17,6 @@ client_scripts {
 	'client/cdped.lua',	-- Default ped script
 	'config/config.lua' -- Config
 }
+kc_checker 'yes'
+kc_github 'https://github.com/EXPANS1VE/XPSV-StaffUtilites'
+kc_name 'XPSV-StaffUtilities'
