@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-version '1.1'
+kc_version '1.1'
 
 server_scripts {
 	'server/sclear.lua', -- Clear Chat Script
