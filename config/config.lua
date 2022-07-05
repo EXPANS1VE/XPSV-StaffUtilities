@@ -6,7 +6,7 @@ Config.Prefix = '^1[^5Staff Yeet^1] ^3'
 -- DefaultPedRestriction roleList for Bypass
 
 roleList = {
-    "ARP │ Staff Team", -- Ped Default Bypass DiscordRole
+    "Director", -- Ped Default Bypass DiscordRole
 }
 
 -- Restricted Peds Model List
